@@ -1,10 +1,6 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Привет, я Игорь!
 ============================================================================================================================
 
-<p align="center">
- <img width="600" src="https://tenor.com/ru/view/davizinmakermeuovo-gif-21035157" alt="hello"/>
-</p>
-
 
 ### :man_technologist: Немного обо мне:
 
