@@ -6,7 +6,7 @@
 
 Начинающий frontend разработчик на JS<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Закончил bootcamp от Hexlet. Сейчас нахожусь в поисках работы)
 
-*   🖥️  Загляни на мой сайт [тык](http://clck.ru/35ttyc)
+*   🖥️  Загляни на мой сайт [тык](https://new-portfolio-alpha-umber.vercel.app/)
 *   ✉️  Связаться со мной можно либо [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:workspacefor@outlook.com) либо [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/tutumf)
 *   🧠  Мои Skills 
 <p align="left">
