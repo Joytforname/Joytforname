@@ -9,7 +9,7 @@
 
 ###
 
-   🖥️  Загляни на мой сайт [клик](https://new-portfolio-alpha-umber.vercel.app/)<br><br>*   🧠  Мои Skills
+   🖥️  Загляни на мой сайт [клик]([https://joytforname.github.io/portfolio/])<br><br>*   🧠  Мои Skills
 
 ###
 
