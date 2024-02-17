@@ -1,7 +1,7 @@
 ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Привет, я Игорь!
 ============================================================================================================================
 
-<p align="left">Начинающий frontend разработчик на JS<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Закончил bootcamp от Hexlet. Сейчас нахожусь в поисках работы)</p>
+<p align="left">Frontend разработчик на JS<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.</p>
 
 ###
 
